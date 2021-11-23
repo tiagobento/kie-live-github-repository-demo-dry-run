@@ -9,9 +9,9 @@
     <dmn:extensionElements/>
     <dmn:variable id="_A403FFC9-B0B1-4CF6-AC88-232D73F8F109" name="Person" typeRef="tPerson"/>
   </dmn:inputData>
-  <dmn:decision id="_757940E9-1FBB-4913-BED3-91DD204890DC" name="Is adult?">
+  <dmn:decision id="_757940E9-1FBB-4913-BED3-91DD204890DC" name="Is a grown up?">
     <dmn:extensionElements/>
-    <dmn:variable id="_BEB118B9-4601-493B-87E4-34192A9BA0F6" name="Is adult?" typeRef="boolean"/>
+    <dmn:variable id="_BEB118B9-4601-493B-87E4-34192A9BA0F6" name="Is a grown up?" typeRef="boolean"/>
     <dmn:informationRequirement id="_3A7A0271-A19C-45F6-BCA8-D0E48BECF5F2">
       <dmn:requiredInput href="#_9A7B6006-02A9-42AD-8A3F-966E5519B33C"/>
     </dmn:informationRequirement>
